@@ -6,6 +6,7 @@ public class NewBranchJY {
 		
 		System.out.println("어려운 코딩 ㅋㅅㅋ;;");
 		System.out.println("내용물 변경!");
+		int i = 10;
 	}
 
 }
