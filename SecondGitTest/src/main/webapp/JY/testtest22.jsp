@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>최혜연</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>엔시티 127 콘서트 1층 잡게 해주세요</h1>
+그냥 만든거
 </body>
 </html>

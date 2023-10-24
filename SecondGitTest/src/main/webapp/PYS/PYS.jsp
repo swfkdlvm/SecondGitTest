@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>최혜연</title>
+<title>Insasde</title>
 </head>
 <body>
-<h1>엔시티 127 콘서트 1층 잡게 해주세요</h1>
+이것은 윤수의 브런치에서 한것이다.
 </body>
 </html>
